@@ -1,0 +1,68 @@
+.newsletter {
+    min-height: fit-content;
+    padding: 3rem;
+    background: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgba(56, 125, 255, 0.17);
+}
+
+.newsletter-wrapper {
+    max-width: 1500px;
+    max-height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.sign-up {
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sign-up > h4{
+    font-size: 4rem;
+    margin-bottom: 2rem;
+}
+
+.sign-up > h6 {
+    font-size: 2rem;
+}
+
+.email-area {
+    min-height: auto;
+    width: 100%;
+    text-align: center;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sign-up input {
+    display: inline-block;
+    padding: 14px 30px;
+}
+
+.sign-up button {
+    margin-left: 0.5rem;
+    position: relative;
+    bottom: 1.7rem;
+}
+
+@media screen and (max-width: 700px) {
+    .sign-up > h4{
+        font-size: 2rem;
+        margin-bottom: 2rem;
+    }
+    
+    .sign-up > h6 {
+        font-size: 1rem;
+    }
+}
