@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NightScenz--Project-5/precache-manifest.fbbc885d5ee68e8bbde2c61262e4d397.js"
+  "/NightScenz--Project-5/precache-manifest.f8d079f44b27c4c78691a4ee6c66b5de.js"
 );
 
 self.addEventListener('message', (event) => {
