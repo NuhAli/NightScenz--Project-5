@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/NightScenz--Project-5/static/css/main.dd9eba2a.chunk.css",
-    "main.js": "/NightScenz--Project-5/static/js/main.8088f520.chunk.js",
-    "main.js.map": "/NightScenz--Project-5/static/js/main.8088f520.chunk.js.map",
+    "main.css": "/NightScenz--Project-5/static/css/main.52af341f.chunk.css",
+    "main.js": "/NightScenz--Project-5/static/js/main.412f78e6.chunk.js",
+    "main.js.map": "/NightScenz--Project-5/static/js/main.412f78e6.chunk.js.map",
     "runtime-main.js": "/NightScenz--Project-5/static/js/runtime-main.33ce1146.js",
     "runtime-main.js.map": "/NightScenz--Project-5/static/js/runtime-main.33ce1146.js.map",
-    "static/js/2.19f8f7e9.chunk.js": "/NightScenz--Project-5/static/js/2.19f8f7e9.chunk.js",
-    "static/js/2.19f8f7e9.chunk.js.map": "/NightScenz--Project-5/static/js/2.19f8f7e9.chunk.js.map",
+    "static/js/2.b5f47364.chunk.js": "/NightScenz--Project-5/static/js/2.b5f47364.chunk.js",
+    "static/js/2.b5f47364.chunk.js.map": "/NightScenz--Project-5/static/js/2.b5f47364.chunk.js.map",
     "index.html": "/NightScenz--Project-5/index.html",
-    "precache-manifest.a13764fd23c82fb296a7e4c02c63ceae.js": "/NightScenz--Project-5/precache-manifest.a13764fd23c82fb296a7e4c02c63ceae.js",
+    "precache-manifest.50e30663b42d50d62dd1eca2f9cae1b7.js": "/NightScenz--Project-5/precache-manifest.50e30663b42d50d62dd1eca2f9cae1b7.js",
     "service-worker.js": "/NightScenz--Project-5/service-worker.js",
-    "static/css/main.dd9eba2a.chunk.css.map": "/NightScenz--Project-5/static/css/main.dd9eba2a.chunk.css.map",
-    "static/js/2.19f8f7e9.chunk.js.LICENSE.txt": "/NightScenz--Project-5/static/js/2.19f8f7e9.chunk.js.LICENSE.txt",
+    "static/css/main.52af341f.chunk.css.map": "/NightScenz--Project-5/static/css/main.52af341f.chunk.css.map",
+    "static/js/2.b5f47364.chunk.js.LICENSE.txt": "/NightScenz--Project-5/static/js/2.b5f47364.chunk.js.LICENSE.txt",
     "static/media/img-1.jpg": "/NightScenz--Project-5/static/media/img-1.45febb11.jpg",
     "static/media/img-2.jpg": "/NightScenz--Project-5/static/media/img-2.9cc98e36.jpg",
     "static/media/img-3.jpg": "/NightScenz--Project-5/static/media/img-3.54b89ee1.jpg",
@@ -19,12 +19,13 @@
     "static/media/img-5.jpg": "/NightScenz--Project-5/static/media/img-5.b076545c.jpg",
     "static/media/img-6.jpg": "/NightScenz--Project-5/static/media/img-6.2943ea15.jpg",
     "static/media/img-7.jpg": "/NightScenz--Project-5/static/media/img-7.fab4c69a.jpg",
+    "static/media/jeff.jpg": "/NightScenz--Project-5/static/media/jeff.d6922eb5.jpg",
     "static/media/video-1.mp4": "/NightScenz--Project-5/static/media/video-1.229f5279.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.33ce1146.js",
-    "static/js/2.19f8f7e9.chunk.js",
-    "static/css/main.dd9eba2a.chunk.css",
-    "static/js/main.8088f520.chunk.js"
+    "static/js/2.b5f47364.chunk.js",
+    "static/css/main.52af341f.chunk.css",
+    "static/js/main.412f78e6.chunk.js"
   ]
 }
